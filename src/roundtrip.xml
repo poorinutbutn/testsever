@@ -1,0 +1,660 @@
+<?xml version='1.0'?>
+<roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>08.45</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>19.13</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>09.05</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>19.13</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>09.45</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>19.13</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>10.45</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>20.25</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>11.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>20.25</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>20.25</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>19.30</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.43</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>19.50</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.43</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.43</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>20.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.32</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>20.15</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.32</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>20.50</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.32</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>20.20</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.30</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.30</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.30</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>20.30</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.58</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>20.50</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.58</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>21.30</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.58</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>21.30</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.55</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>21.45</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.55</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.55</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>21.45</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>07.58</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>22.05</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>07.58</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>22.40</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>07.58</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>22.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>08.13</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>22.20</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>08.13</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>22.55</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>08.13</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>22.30</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>07.35</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>07.35</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>07.35</timeto>
+        <standard>First Class 30 ที่นั่ง</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>กรุงเทพฯ</terminal>
+        <timeout>23.15</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>08.40</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>23.30</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>08.40</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>นครชัยแอร์</company>
+        <terminal>รังสิต</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>08.40</timeto>
+        <standard>Gold Class (VIP) 32 ที่นั่ง</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>07.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>16.50</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>07.20</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>16.50</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>08.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>17.30</timeto>
+        <standard>Star</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>17.30</timeto>
+        <standard>Star</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>09.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>18.50</timeto>
+        <standard>Super</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>09.20</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>18.50</timeto>
+        <standard>Super</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>09.50</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>19.45</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>10.15</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>19.45</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>13.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>22.30</timeto>
+        <standard>Super</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>12.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>22.30</timeto>
+        <standard>Super</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>14.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>23.30</timeto>
+        <standard>Star</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>13.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>23.30</timeto>
+        <standard>Star</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>18.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>03.30</timeto>
+        <standard>Super</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>03.30</timeto>
+        <standard>Super</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>ไม่ระบุ</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>03.40</timeto>
+        <standard>Super</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>18.10</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>03.40</timeto>
+        <standard>Super</standard>
+        <price>617</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>ไม่ระบุ</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>04.30</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>19.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>04.30</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>19.25</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>04.55</timeto>
+        <standard>ไม่ระบุ</standard>
+        <price>823***</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>04.55</timeto>
+        <standard>ไม่ระบุ</standard>
+        <price>823***</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>20.10</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.40</timeto>
+        <standard>Super</standard>
+        <price>617*</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.40</timeto>
+        <standard>Super</standard>
+        <price>617*</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>20.25</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.55</timeto>
+        <standard>Star</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>05.55</timeto>
+        <standard>Star</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>ไม่ระบุ</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.00</timeto>
+        <standard>Star</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>20.30</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.00</timeto>
+        <standard>Star</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>21.00</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.30</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>-</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.30</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>หมอชิต</terminal>
+        <timeout>ไม่ระบุ</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.40</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>สมบัติทัวร์</company>
+        <terminal>วิภาวดี</terminal>
+        <timeout>21.10</timeout>
+        <endterminal>เชียงใหม่</endterminal>
+        <timeto>06.40</timeto>
+        <standard>Supreme</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> เชียงใหม่ (ข)</endterminal>
+        <timeout>05:40  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.4ค</standard>
+        <price>412</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> เชียงใหม่ (ข)</endterminal>
+        <timeout>07:25  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.4ค</standard>
+        <price>412</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> เชียงใหม่ (ข)</endterminal>
+        <timeout>09:00  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.1ก</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> เชียงใหม่ (ข)</endterminal>
+        <timeout>10:30  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.4ค</standard>
+        <price>412</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> บ้านท่าตอน</endterminal>
+        <timeout>16:50  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.4ข</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> บ้านท่าตอน</endterminal>
+        <timeout>18:30  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.4ข</standard>
+        <price>529</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> บ้านท่าตอน*</endterminal>
+        <timeout>19:25  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.1ก</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> เชียงใหม่ (ข)</endterminal>
+        <timeout>19:50  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.4ค</standard>
+        <price>412</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> เชียงใหม่(ข) (Super Bus)</endterminal>
+        <timeout>21:00  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.1ก</standard>
+        <price>823</price>
+    </roundtrip>
+    <roundtrip>
+        <company>บขส</company>
+        <terminal>กรุงเทพฯ </terminal>
+        <endterminal> เชียงใหม่ (ข)</endterminal>
+        <timeout>21:40  น.</timeout>
+        <timeto>ไม่ระบุ</timeto>
+        <standard>ม.4ข</standard>
+        <price>529</price>
+    </roundtrip>
+</roundtrip>
