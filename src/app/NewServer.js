@@ -26,7 +26,7 @@ app.get('/',function (req,res) {
 app.get('/indexxxxxx.html' , function (req , res) {
     res.sendfile('src/index.html');
 });
-app.get('/result', function (req, res) {
+app.all('/result', function (req, res) {
     var data_table = [];
     var startc = 28;
     var time = 27;
