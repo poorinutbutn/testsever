@@ -5,6 +5,7 @@ const request = require('request');
 const path = require('path')
 const js2xmlparser = require('js2xmlparser');
 const fs = require('fs');
+var port = process.env.PORT || 8080;
 
 
 const app = express();
@@ -3374,6 +3375,6 @@ app.all('/result', function (req, res) {
     res.sendfile('./src/result.html')
     
 });
-app.listen('8080', () => {
+app.listen(port, () => {
     console.log('New Server work!!');
 });
