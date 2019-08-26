@@ -18,9 +18,6 @@ app.use(express.urlencoded({
     extended: true
 }))
 
-// app.get('/roundtrip.xml',function(req,res){
-//     res.sendfile('../roundtrip.xml')
-// })
 app.get('/',function (req,res) {
     res.sendfile('src/index.html'); 
 });
@@ -3344,30 +3341,7 @@ app.all('/result', function (req, res) {
                         if (err) throw err;
                         console.log('Replaced!');
                     });
-        
-        
-        
-        // for (start = 1; start == 1; start++) {
-        //     var tagtable = '<!DOCTYPE html><html><head><body><table border = "2"><tr><th>จุดขึ้นรถ</th><th>เวลารถออก</th><th>เวลารถออก</th><th>ราคา</th><th>บริษัท</th></tr>';
-        //     var taghtml = tagtable;
-        //     var tagrow = "";
-        //     // res.write(tagtable);
-        //     for (nrow = 0; nrow < ResultTable.length; nrow++) {
-        //         var row = '<tr><td>' + ResultTable[nrow].terminal + '</td><td>' + ResultTable[nrow].timeout + '</td><td>' + ResultTable[nrow].standard + '</td><td>' + ResultTable[nrow].price + '</td><td><a href = "+"https://www.busticket.in.th/"+">' + ResultTable[nrow].company + '</a></td></tr>';
-        //         tagrow += row;
-        //         console.log(nrow)
-        //     }
-        // }
-        // var endtag = '</table></body></head></html>';
-        // res.send(taghtml+tagrow+endtag);
-        //res.send(ResultTable)
-        
-    }
-    // fs.writeFile('./src/roundtrip.xml', xml_roundtrip, function (err) {
-    //     if (err) throw err;
-    //     console.log('Replaced!');
-    // });
-    // res.sendfile('./src/result.html')
+
     function Success(){
         console.log("Show Success !!!")
     }
